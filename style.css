@@ -64,8 +64,8 @@ img {
 
 p {
   font-family: 'Zeyada';
-  font-weight:900;
-  font-size: 56px;
+  font-weight: bold;
+  font-size: 60px;
   color: rgb(0,0,100);
   opacity: 0.75;
   user-select: none;
